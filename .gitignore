@@ -1,0 +1,8 @@
+# Confidential company prompt (never publish)
+Technical Assesment Exercise Backend Engineering.pdf
+
+# OS / Python scratch artifacts
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
